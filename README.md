@@ -1,1 +1,2 @@
 Ceci est mon apprentissage de Git
+"Apprentissage du Jour 2 : Le lien avec GitHub."
